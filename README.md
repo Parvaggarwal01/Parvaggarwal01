@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parv Aggarwal</h1>
-<h3 align="center">🚀 Front End Developer 🌟 Python Developer 🌟Linux User</h3>
+<h3 align="center">🚀 Front End Developer 🌟Mac User</h3>
 
 ### 📊 Stats
 
