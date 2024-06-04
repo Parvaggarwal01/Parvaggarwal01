@@ -11,12 +11,13 @@
 #### Programming Languages:
 
 <div align="center"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40">
 </div>  
   
 #### Databases:
@@ -24,7 +25,6 @@
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40">
-<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-white.svg" alt="MariaDB" height="40">
 </div>
 
 #### Tools:
@@ -32,7 +32,7 @@
 <div align="center">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">
-<img src="https://avatars.githubusercontent.com/u/6392739?s=280&v=4" alt="Conda" height="40">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="40">  
 </div>
 
 #### IDEs / Text Editors:
@@ -43,8 +43,9 @@
   
 
 ### 🔝 Most used languages
-
+<div align="center">
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvaggarwal01&theme=github_dark&hide_border=true&layout=compact" />
+</div>
 
 ---
 
