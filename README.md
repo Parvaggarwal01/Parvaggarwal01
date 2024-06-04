@@ -13,9 +13,9 @@
 <div align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40">
+<img src="https://www.pngwing.com/en/free-png-hjxmr" alt="CSS" height="40">
 </div>  
   
 #### Databases:
@@ -37,15 +37,9 @@
 #### IDEs / Text Editors:
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" alt="Neovim" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">  
 </div>
   
-#### 💻Workspace:
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png" alt="Arch Linux" height="50>"
-</div>
 
 ### 🔝 Most used languages
 
