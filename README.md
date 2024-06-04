@@ -2,9 +2,10 @@
 <h3 align="center">🚀 Front End Developer 🌟Mac User</h3>
 
 ### 📊 Stats
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Parvaggarwal01&show_icons=true&theme=radical&hide_broder=true" alt="Parv's GitHub stats" width="48%" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvaggarwal01&theme=github_dark&hide_border=true" alt="Parv's GitHub streak" width="48%" >
+</div>
 
 ### 🛠️ Skills and Tools:
 
