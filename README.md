@@ -68,14 +68,6 @@
 
 ---
 
-### 📅 Today's Date & Time
-
-<p align="center">
-  <img src="https://readme-time.vercel.app/api?timezone=Asia/Kolkata&style=night&locale=en" alt="Time in India">
-</p>
-
----
-
 ### 👥 Visitor Counter
 
 <p align="center">
