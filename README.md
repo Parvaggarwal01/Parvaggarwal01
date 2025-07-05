@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Parv Aggarwal 👋</h1>
-<h3 align="center">🚀 Front-End Developer | 🌟 Mac User | 📍 India</h3>
+<h3 align="center">💻 Full Stack Developer | 🌟 Mac User | 📍 India</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Parv%20Aggarwal-%20Full%20Stack%20Dev-green?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=green" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7BF&center=true&vCenter=true&width=450&lines=Code+%3D+Creativity+%2B+Logic;I+build+web+interfaces+you'll+love;Always+learning+something+new!" alt="Typing SVG" />
@@ -7,15 +11,20 @@
 
 ---
 
+### 🧠 About Me
+
+- 🧑‍🎓 University student passionate about front-end development  
+- 🎯 Focused on clean UI, accessibility, and performance  
+- 🧪 Exploring: **Next.js**, **TypeScript**, **Framer Motion**  
+- ✉️ Reach me: [parvaggarwal01@gmail.com](mailto:parvaggarwal01@gmail.com)
 
 ---
 
-### 🧠 About Me
+### 🧰 Tech Stack
 
-- 🧑‍🎓 University student passionate about front-end development
-- 🎯 Focused on clean UI, accessibility, and performance
-- 🧪 Exploring: **Next.js**, **TypeScript**, **Framer Motion**
-- ✉️ Reach me: [parvaggarwal01@gmail.com](mailto:parvaggarwal01@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,cpp,python,git,github,vscode,figma" />
+</p>
 
 ---
 
@@ -23,6 +32,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parvaggarwal01&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Parvaggarwal01&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -40,6 +57,19 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvaggarwal01&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 🧾 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parvaggarwal01&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parvaggarwal01&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parvaggarwal01&theme=radical" />
 </p>
 
 ---
