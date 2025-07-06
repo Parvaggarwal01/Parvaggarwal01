@@ -16,7 +16,7 @@
 - 🧑‍🎓 University student passionate about front-end development  
 - 🎯 Focused on clean UI, accessibility, and performance  
 - 🧪 Exploring: **Next.js**, **TypeScript**, **Framer Motion**  
-- ✉️ Reach me: [parvaggarwal01@gmail.com](mailto:parvaggarwal01@gmail.com)
+- ✉️ Reach me: [parvaggarwal130@gmail.com](mailto:parvaggarwal130@gmail.com)
 
 ---
 
