@@ -15,7 +15,7 @@
 
 - 🧑‍🎓 University student passionate about front-end development  
 - 🎯 Focused on clean UI, accessibility, and performance  
-- 🧪 Exploring: **Next.js**, **TypeScript**, **Framer Motion**  
+- 🧪 Exploring: **React-Native**, **Framer Motion**  
 - ✉️ Reach me: [parvaggarwal130@gmail.com](mailto:parvaggarwal130@gmail.com)
 
 ---
@@ -28,27 +28,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parvaggarwal01&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parvaggarwal01&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ### 🔥 GitHub Streak & Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvaggarwal01&theme=github-dark-blue&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Parvaggarwal01&show_icons=true&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -67,39 +50,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parvaggarwal01&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parvaggarwal01&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parvaggarwal01&theme=radical" />
-</p>
-
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parvaggarwal01/Parvaggarwal01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🎯 Current Learning Goal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-Next.js-blue?style=for-the-badge&logo=next.js" />
-</p>
-
----
-
-### 💬 Random Dev Tip
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
----
-
-### 👥 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Parvaggarwal01/count.svg" />
-</p>
