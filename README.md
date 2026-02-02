@@ -20,14 +20,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,cpp,python,git,github,vscode,figma" />
-</p>
-
----
-
 ### 🔥 GitHub Streak & Stats
 
 <p align="center">
