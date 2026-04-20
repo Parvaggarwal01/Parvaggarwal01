@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parv Aggarwal 👋</h1>
-<h3 align="center">💻 Full Stack Developer | 🌟 Mac User | 📍 India</h3>
+<h3 align="center">Full Stack Developer | iOS App Developer |  Mac User |  India</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Parv%20Aggarwal-%20Full%20Stack%20Dev-green?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=green" />
